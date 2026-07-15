@@ -67,6 +67,5 @@ API_KEY = "YOUR_API_KEY"
 This project demonstrates API integration in Python and provides real-time weather information using data fetched from the OpenWeatherMap API.
 
 ## Author
-
-Sheetal Verma
+Muskan Verma
 MCA (AI/ML)
